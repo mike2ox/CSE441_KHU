@@ -11,7 +11,7 @@ CSE441 in kyunghee univ
 
 # plan
 
-| no. | contents |
-|---|---|
-| 1 | install anaconda and implement gaussian, laplacian filter|
-| 2 | ` |
+| no. | contents | assignment |
+|---|---|---|
+| 1 | install anaconda and implement gaussian, laplacian filter| Implement LoG, DoG filter
+| 2 | ` | ` |
